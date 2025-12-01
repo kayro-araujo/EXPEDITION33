@@ -213,7 +213,7 @@ h1 {
 
 
 
-    background-image: url(expedition23.gif);
+  background-image: url(expedition23.gif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -263,4 +263,5 @@ text-align: center;
 display: flex;
 
 }
+
 
